@@ -1,4 +1,4 @@
-/ Example JavaScript code for a simple testimonial carousel
+
 
 document.addEventListener('DOMContentLoaded', function () {
   // Replace with your actual testimonial data
