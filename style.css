@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: white;
+    color: blue;
+    text-align: center;
+    padding: 1em 0;
+  }
+
+  #logo{
+    position: absolute;
+    
+    top: 10px;
+    left: 10px;
+    max-height: 100px;
+  }
+  
+  nav {
+    margin-top: 100px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  nav ul li a{
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  nav a{
+    background-color:whitesmoke;
+    padding: 3px 3px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+  }
+
+  nav a:hover{
+    background-color:goldenrod;
+  }
+
+  #home-content {
+    background-color: lightblue;
+    padding: 30px 0;
+  }
+
+  .home-content-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+/* Testimonials Section Styles */
+
+/* Testimonials Section Styles */
+.testimonials-container {
+  max-width: 800px;
+  margin: 200px auto; /* Adjust the margin to move the box down */
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color:lightyellow; /* Blue color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  text-align: center; /* Center alignment for text */
+}
+
+.testimonial-btn {
+  font-size: 24px;
+  color: #fff; /* White color for text */
+  background-color: #3498db; /* Blue color for button background */
+  border: 1px solid #2980b9; /* Slightly darker blue border */
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Adjustments for button positioning */
+#next-testimonial {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+}
+
+#prev-testimonial {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
