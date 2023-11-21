@@ -332,3 +332,70 @@ body {
     padding: 20px;
     margin-bottom: 20px;
   }
+
+  /* Events page styles */
+
+
+/* Events page styles */
+
+.events-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
+
+.event-card {
+  width: 80%;
+  max-width: 600px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.event-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.event-card-content {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 20px;
+  text-align: left;
+}
+
+.event-card-content h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.event-card-content p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .events-section {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .events-section {
+    grid-template-columns: 1fr;
+  }
+}
+
+.previous-events-section,
+.upcoming-events-section {
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
