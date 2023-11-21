@@ -407,3 +407,109 @@ body {
   list-style-type: none;
   text-decoration: none;
 }
+
+/* Schedules page styles */
+
+.schedules-section {
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
+
+.schedules-container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.schedules-filter {
+  margin-bottom: 20px;
+}
+
+.schedules-filter label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.schedules-filter select {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.schedules-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.schedules-table th, .schedules-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.schedules-table th {
+  font-weight: bold;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .schedules-container {
+    width: 100%;
+  }
+
+  .schedules-table {
+    font-size: 14px;
+  }
+}
+/* Schedules page styles */
+
+.schedules-section {
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
+
+.schedules-container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.schedules-filter {
+  margin-bottom: 20px;
+}
+
+.schedules-filter label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.schedules-filter select {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.schedules-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.schedules-table th, .schedules-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.schedules-table th {
+  font-weight: bold;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .schedules-container {
+    width: 100%;
+  }
+
+  .schedules-table {
+    font-size: 14px;
+  }
+}
+
