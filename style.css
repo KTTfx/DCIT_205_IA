@@ -513,3 +513,74 @@ body {
   }
 }
 
+
+/* International Students page styles */
+
+.international-students-section {
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
+
+.international-students-container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.international-students-h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.international-students-p {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.international-students-nav {
+  margin-bottom: 40px;
+}
+
+.international-students-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.international-students-nav li {
+  margin-bottom: 10px;
+}
+
+.international-students-nav a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.international-students-nav a:hover {
+  text-decoration: underline;
+}
+
+.international-students-subheading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.international-students-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.international-students-list li {
+  margin-bottom: 10px;
+}
+
