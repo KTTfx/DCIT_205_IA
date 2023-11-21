@@ -584,3 +584,73 @@ body {
   margin-bottom: 10px;
 }
 
+/* Contact page styles */
+
+.contact-section {
+  background-color: #f2f2f2;
+  padding: 40px 0;
+}
+
+.contact-container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.contact-h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.contact-p {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.contact-details {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.contact-details ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-details li {
+  margin-bottom: 10px;
+}
+
+.contact-form {
+  margin-top: 40px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding
+}
