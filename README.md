@@ -44,6 +44,14 @@ The website is designed to be easy to navigate and informative. It provides visi
 
 Additional Features
 
+Students Will be able to register online for upcoming speech events with ease and comfortability.
+
+Students will be able to connect to tech giants in their field of studies for insights.
+
+Students will be able to learn more about course related activities such as hackathan and register as well.
+
+Registered students will be able to see their exact time table at the schedule page once teaching staff update the information.
+
 Accessibility: The website is designed to be accessible to users with disabilities.
 
 Messaging: This is a part of the contact us where students can leave messages for Staff they wish to contact.
