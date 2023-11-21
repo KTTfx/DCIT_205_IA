@@ -3,7 +3,7 @@ README
 
  University of Ghana Computer Science Department Website
 
-This website is designed to provide prospective students, current students, faculty, staff, and industry partners with information about the Computer Science Department at Your University.
+This website is designed to provide prospective students, current students, faculty, staff, and industry partners with information about the Computer Science Department at The University of Ghana
 
 Website Structure
 
@@ -33,8 +33,8 @@ Research Highlights: The research highlights section showcases the department's 
 
 Testimonials: The testimonials section displays quotes from current students and alumni about their experiences in the department.
 
-Footer: The footer contains copyright information and links to social media pages.
-CSS and JavaScript
+Footer: The footer contains copyright information.
+
 
 The website uses CSS to style the HTML elements and JavaScript to add interactive features, such as the testimonials carousel.
 
