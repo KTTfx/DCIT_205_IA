@@ -1,5 +1,4 @@
 
-README
 
  University of Ghana Computer Science Department Website
 
@@ -7,11 +6,11 @@ This website is designed to provide prospective students, current students, facu
 
 Website Structure
 
-![HomePage](./Website%20Images/front%20page.jpg)
+
 
 Student Success Stories: The student success stories section features testimonials from successful alumni of the department's programs.
 
-![HomePage 2](./Website%20Images/web2.jpg)
+
 
 Research Highlights: The research highlights section showcases the department's faculty's research accomplishments.
 
@@ -43,4 +42,8 @@ The website is designed to be easy to navigate and informative. It provides visi
 
 
 
+Nsroma Kweku Nsarko Arhin
+11293722
 
+![Front page](<Website Images/front page.jpg>)
+![Alt text](<Website Images/web2.jpg>)
