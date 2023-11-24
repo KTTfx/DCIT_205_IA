@@ -56,4 +56,6 @@ Accessibility: The website is designed to be accessible to users with disabiliti
 
 Messaging: This is a part of the contact us where students can leave messages for Staff they wish to contact.
 
-I hope that you find this website informative and helpful.
+I hope that you find this website informative a\
+
+![HomePage](./Website%20Images/front%20page.jpg)
