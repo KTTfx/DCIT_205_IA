@@ -25,7 +25,7 @@ Students will be able to learn more about course related activities such as hack
 
 ![Entry](./Website%20Images/Entry Requirements.jpg)
 
-![Schedules](./Website%20Images/Schedules)
+![Schedules](./Website%20Images/Schedules.jpg)
 
 Registered students will be able to see their exact time table at the schedule page once teaching staff update the information.
 
@@ -41,6 +41,21 @@ Overall Functionality
 The website is designed to be easy to navigate and informative. It provides visitors with a comprehensive overview of the Computer Science Department University of Ghana.
 
 
+
+Here is a very brief procedure on how anyone can clone my website project on GitHub:
+
+Steps:
+
+Copy the repository URL from GitHub.
+Open a terminal window and navigate to a suitable cloning location.
+Clone the repository using the git clone command.
+Change directory into the cloned repository.
+Install project dependencies (if any).
+Start the development server (if applicable).
+That's it!
+
+What I learnt from This project
+I learned how to break down a large project into smaller, more manageable tasks as well as meeting deadlines under pressure and effectively managing my time. It Has Been FUN!
 
 Nsroma Kweku Arhin
 11293722
